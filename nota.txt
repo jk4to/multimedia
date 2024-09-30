@@ -1,3 +1,2 @@
 Proyecto Multimedia
-
-Juego RPG - Sistema Solar
+Juego RPG 2d - Sistema Solar
